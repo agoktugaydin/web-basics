@@ -1,0 +1,1 @@
+height ve width block elementlere atanabilirken inline elementlere atanamiyor. 
